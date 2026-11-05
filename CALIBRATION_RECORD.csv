@@ -1,0 +1,28 @@
+field,value,notes
+servo_model,,
+supply_voltage_V,,
+supply_current_rating_A,,
+loaded_servo_voltage_V,,
+camera_index,,
+frame_width_px,,
+frame_height_px,,
+model_path,,
+serial_port,,
+baud,115200,
+home_pan,40,Owner selected
+home_tilt,40,Owner selected
+pan_min,30,Verify clearance
+pan_max,150,Verify clearance
+tilt_min,30,Verify clearance
+tilt_max,150,Verify clearance
+pan_sign,,Measure direction
+tilt_sign,,Measure direction
+gain,0.15,Starting point
+max_speed_deg_s,45,Proposed tuning value
+dead_zone_px,8,Proposed tuning value
+alpha,0.3,Submitted code
+horizontal_feedback_pass,,
+vertical_feedback_pass,,
+settling_time_s,,Not measured
+operator,,
+test_date,,
