@@ -3,7 +3,7 @@
 # Person Tracking Camera Documentation
 
 Author: Parker Wilson  
-Revision: 1.0 | November 4, 2026
+Revision: 1.12 | November 4, 2026
 
 Open **Person_Tracking_Project_Guide.pdf** for the complete guide. The Markdown
 version is editable and suitable for adapting into a repository README.
@@ -17,7 +17,6 @@ version is editable and suitable for adapting into a repository README.
    Monitor at 115200 baud with Newline. Confirm axis direction and clearance.
 5. Close Serial Monitor, match Python home and limits, and select the actual COM port.
 6. Verify that each direction sign makes the corresponding image error shrink.
-7. Complete the acceptance tests and fill in CALIBRATION_RECORD.csv.
 
 ## Status
 
