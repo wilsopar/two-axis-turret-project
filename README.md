@@ -31,6 +31,6 @@ last accepted angle when commands stop and has no watchdog or acknowledgment.
 No model weights or replacement Python application are included.
 
 ## Sources
-[3D model for base](https://makerworld.com/en/models/973248-pan-tilt-servo-antenna-tracker-mg996r#profileId-945437)
-[YOLO Script (My own personal work)](https://github.com/wilsopar/camera-tracking-project)
-[Wiring Assistance](https://forum.arduino.cc/t/why-arent-my-servos-moving/853622/6) 
+* [3D model for base](https://makerworld.com/en/models/973248-pan-tilt-servo-antenna-tracker-mg996r#profileId-945437)
+* [YOLO Script (My own personal work)](https://github.com/wilsopar/camera-tracking-project)
+* [Wiring Assistance](https://forum.arduino.cc/t/why-arent-my-servos-moving/853622/6) 
