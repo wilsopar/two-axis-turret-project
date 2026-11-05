@@ -1,4 +1,4 @@
-<img align="right" src="docs/Video Project 2.gif" alt="Person tracker demo" width="320">
+<img align="right" src="docs/demo.gif" alt="Person tracker demo" width="320">
 
 # Person Tracking Camera Documentation
 
